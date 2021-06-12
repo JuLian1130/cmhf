@@ -241,7 +241,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTah_jjhd/AHJJGQHB.jpg" group-title="未分类",安徽经济高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTah_jjhd/AHJJGQHB.jpg" group-title="未分类",安徽经济高清
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/XMTah_yshd/AHYSGQHB.jpg" group-title="未分类",安徽影视高清
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
