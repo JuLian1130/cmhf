@@ -168,7 +168,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ -1080P-cctv1/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
@@ -269,203 +269,455 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-NEWTV08/jfdjshjf.jpg" group-title="未分类",超级电视剧（测试）
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1(可回看)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 甘肃移动",CCTV1(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226247/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2(可回看)
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 甘肃移动",CCTV2(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226220/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3(可回看)
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视 甘肃移动",CCTV3(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4(可回看)
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视 甘肃移动",CCTV4(可回看 甘肃移动)
 http://hwottcdn.ln.chinamobile.com:80/TVOD/11/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5(可回看)
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视 甘肃移动",CCTV5(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+(可回看)
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视 甘肃移动",CCTV5+(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6-1(可回看)
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视 甘肃移动",CCTV6-1(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226148/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6-2(可回看)
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视 甘肃移动",CCTV6-2(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226226/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7(可回看)
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视 甘肃移动",CCTV7(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226255/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8(可回看)
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视 甘肃移动",CCTV8(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226150/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8-2(可回看)
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视 甘肃移动",CCTV8-2(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9(可回看)
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视 甘肃移动",CCTV9(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10(可回看)
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视 甘肃移动",CCTV10(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226164/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10-2(可回看)
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视 甘肃移动",CCTV10-2(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226228/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11(可回看)
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视 甘肃移动",CCTV11(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226261/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12(可回看)
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视 甘肃移动",CCTV12(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13(可回看)
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视 甘肃移动",CCTV13(可回看 甘肃移动)
 http://39.135.33.12/TVOD/77777777/224/3221226819/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14(可回看)
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视 甘肃移动",CCTV14(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226166/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14-2(可回看)
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视 甘肃移动",CCTV14-2(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226232/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15(可回看)
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视 甘肃移动",CCTV15(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226234/index.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",CCTVNEWS(可回看)
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台 甘肃移动",CCTVNEWS(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视(可回看)
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视 甘肃移动",湖南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226268/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视(可回看) 
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视 甘肃移动",江苏卫视(可回看 甘肃移动) 
 http://39.134.39.39/TVOD/88888888/224/3221226264/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视(可回看)
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视 甘肃移动",浙江卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226266/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视(可回看)
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视 甘肃移动",东方卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226155/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视(可回看)
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 甘肃移动",北京卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226161/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视(可回看) 
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视 甘肃移动",广东卫视(可回看 甘肃移动) 
 http://39.134.39.39/TVOD/88888888/224/3221226180/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视(可回看)
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视 甘肃移动",东南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226182/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(可回看)
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视 甘肃移动",深圳卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226199/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视(可回看)
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视 甘肃移动",天津卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视(可回看)
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 甘肃移动",安徽卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226205/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视(可回看)
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视 甘肃移动",山东卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视(可回看)
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视 甘肃移动",四川卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视(可回看)
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视 甘肃移动",重庆卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视(可回看)
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视 甘肃移动",湖北卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226159/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视(可回看) 
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视 甘肃移动",辽宁卫视(可回看 甘肃移动) 
 http://39.134.39.39/TVOD/88888888/224/3221226278/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视(可回看)
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视 甘肃移动",江西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视(可回看)
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视 甘肃移动",贵州卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226276/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视(可回看)
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视 甘肃移动",河北卫视(可回看 甘肃移动)
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视(可回看)
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视 甘肃移动",黑龙江卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视(可回看)
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视 甘肃移动",河南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视(可回看)
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视 甘肃移动",吉林卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视(可回看)
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视 甘肃移动",山西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视(可回看)
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视 甘肃移动",青海卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视(可回看)
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视 甘肃移动",云南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视(可回看)
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视 甘肃移动",宁夏卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视(可回看)
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视 甘肃移动",新疆卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视(可回看)
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视 甘肃移动",内蒙古卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视(可回看)
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视 甘肃移动",广西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视(可回看)
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视 甘肃移动",厦门卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+(可回看)
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方 甘肃移动",IPTV5+(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226273/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",CETV1(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226282/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视(可回看)
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视 甘肃移动",山东卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226297/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视(可回看)
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视 甘肃移动",江西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226305/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视(可回看)
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视 甘肃移动",海南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视(可回看)
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视 甘肃移动",甘肃卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视(可回看)
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视 甘肃移动",重庆卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",动漫秀场(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育(可回看)
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海 甘肃移动",劲爆体育(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226170/index.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车(可回看)
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海 甘肃移动",极速汽车(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场(可回看)
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海 甘肃移动",欢笑剧场(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云(可回看)
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海 甘肃移动",游戏风云(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",都市剧场(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视(可回看)
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海 甘肃移动",东方影视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226189/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育(可回看)
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海 甘肃移动",五星体育(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海外文(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",上海外文(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第1财经(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",第1财经(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文(可回看)
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海 甘肃移动",纪实人文(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226174/index.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市(可回看)
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海 甘肃移动",上海都市(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226168/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘肃公共应急(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",甘肃公共应急(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226250/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘肃少儿(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",甘肃少儿(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘肃文化影视(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",甘肃文化影视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘肃经济(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",甘肃经济(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘肃都市(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",甘肃都市(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兰州公共频道(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",兰州公共频道(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226244/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兰州新闻综合(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",兰州新闻综合(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兰州生活经济(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",兰州生活经济(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226285/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兰州综艺体育(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",兰州综艺体育(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226246/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视(可回看)
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视 甘肃移动",吉林卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视(可回看)
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视 甘肃移动",山西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226286/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视(可回看)
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视 甘肃移动",广西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226319/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视(可回看)
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视 甘肃移动",新疆卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视(可回看)
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视 甘肃移动",河北卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226290/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视(可回看)
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视 甘肃移动",河南卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视(可回看)
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视 甘肃移动",西藏卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226294/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视(可回看)
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视 甘肃移动",贵州卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225885/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视(可回看)
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视 甘肃移动",陕西卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226284/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视(可回看)
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视 甘肃移动",青海卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视(可回看)
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视 甘肃移动",兵团卫视(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧(可回看)
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海 甘肃移动",七彩戏剧(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",东方财经(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法制天地(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",法制天地(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚(可回看)
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海 甘肃移动",生活时尚(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育(可回看)
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海 甘肃移动",五星体育(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合(可回看)
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 甘肃移动",上海新闻综合(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市(可回看)
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海 甘肃移动",上海都市(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动(可回看)
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海 甘肃移动",哈哈炫动(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226329/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KAKU少儿(可回看)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类 甘肃移动",KAKU少儿(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226300/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通(可回看)
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方 甘肃移动",嘉佳卡通(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通(可回看)
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视 甘肃移动",金鹰卡通(可回看 甘肃移动)
 http://39.134.39.39/TVOD/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视超清北京移动",CCTV1(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视超清北京移动",CCTV1(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视超清北京移动",CCTV1(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视超清北京移动",CCTV2(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视超清北京移动",CCTV2(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视超清北京移动",CCTV2(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视超清北京移动",CCTV3(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视超清北京移动",CCTV4(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视超清北京移动",CCTV4(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视超清北京移动",CCTV5(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视超清北京移动",CCTV5+(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视超清北京移动",CCTV5+(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视超清北京移动",CCTV5+(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视超清北京移动",CCTV6(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视超清北京移动",CCTV7(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视超清北京移动",CCTV7(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视超清北京移动",CCTV8(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视超清北京移动",CCTV9(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视超清北京移动",CCTV9(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视超清北京移动",CCTV10(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视超清北京移动",CCTV10(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视超清北京移动",CCTV11(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视超清北京移动",CCTV11(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视超清北京移动",CCTV12(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视超清北京移动",CCTV12(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视超清北京移动",CCTV13(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视超清北京移动",CCTV14(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视超清北京移动",CCTV14(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视超清北京移动",CCTV15(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视超清北京移动",CCTV15(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视超清北京移动",CCTV17(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视超清北京移动",CCTV17(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视超清北京移动",CCTV 中视购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视超清北京移动",安徽卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视超清北京移动",安徽卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视超清北京移动",北京卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视超清北京移动",北京卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226367/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视超清北京移动",北京卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视超清北京移动",北京卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视超清北京移动",东方卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视超清北京移动",东方卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视超清北京移动",东方卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视超清北京移动",东南卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视超清北京移动",东南卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视超清北京移动",广东卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226238/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视超清北京移动",广东卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视超清北京移动",贵州卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视超清北京移动",河北卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视超清北京移动",黑龙江卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视超清北京移动",黑龙江卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视超清北京移动",湖北卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视超清北京移动",湖北卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视超清北京移动",湖南卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视超清北京移动",江苏卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视超清北京移动",江苏卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视超清北京移动",江苏卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视超清北京移动",江西卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视超清北京移动",辽宁卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视超清北京移动",山东卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视超清北京移动",山东卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视超清北京移动",深圳卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视超清北京移动",深圳卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视超清北京移动",天津卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视超清北京移动",天津卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视超清北京移动",浙江卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226247/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视超清北京移动",浙江卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226365/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视超清北京移动",浙江卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/index.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="BTV北京移动",北京BTV 财经(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV北京移动",北京BTV 东奥纪实(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="BTV北京移动",北京BTV 科教(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="BTV北京移动",北京BTV 青年(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="BTV北京移动",北京BTV 生活(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/index.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="BTV北京移动",北京BTV 文艺(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="BTV北京移动",北京BTV 新闻(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="BTV北京移动",北京BTV 影视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 爱情喜剧(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级电视剧(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级电视剧(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级电影(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级电影(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级体育(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级体育(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级综艺(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226231/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 超级综艺(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 潮妈辣婆(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 动作电影(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 古装剧场(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 家庭剧场(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 金牌综艺(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 惊悚悬疑(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225921/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 惊悚悬疑(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226423/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 精品大剧(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 精品纪录(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 军旅剧场(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 军事评论(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 农业致富(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 武博世界(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 炫舞未来(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 怡伴健康(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV北京移动",NewTV 中国功夫(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",CETV1(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/index.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他超清北京移动",茶频道(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",大健康(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",风尚购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226342/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",好享购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",黑莓电竞(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",黑莓电影(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",黑莓动画(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",聚鲨环球精选(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226429/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他超清北京移动",卡酷少儿(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="其他超清北京移动",快乐垂钓(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",快乐购(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",萌宠 TV(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",淘 BABY(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",淘电影(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",淘剧场(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",淘娱乐(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",未知(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",未知(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",未知(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",央广购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226363/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他超清北京移动",优购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226386/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="720P高清北京移动",凤凰卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="720P高清北京移动",凤凰卫视(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720P高清北京移动",NewTV 精品体育(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720P高清北京移动",家有购物(可回看 北京移动)
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226343/index.m3u8
